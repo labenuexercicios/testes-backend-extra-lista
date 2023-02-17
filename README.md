@@ -1,6 +1,7 @@
 # Lista de exercícios extra de lógica
 
-Não são obrigatórios, desenvolva as implementações e testes para cada.
+Esses exercícios não são obrigatórios, desenvolva as implementações e testes para cada.<br>
+Caso trave, a branch gabaritos possui as implementações de cada exercício.
 
 ## 1
 Crie uma função que recebe um número entre 1 a 10 e retorna seu valor em extenso. Por exemplo, se o input for 1 é retornado a string “um”. Caso o input não seja válido, o retorno deve ser um aviso de erro “parâmetro inválido”.
