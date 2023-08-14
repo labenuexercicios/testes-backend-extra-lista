@@ -13,7 +13,7 @@ Crie uma função que recebe dois números e retorna um objeto com duas propried
 Crie uma função que recebe uma string e a retorna invertida. Por exemplo, se o argumento for “Hello world!” deverá ser retornado  “!dlrow olleH”. Tente não utilizar métodos nativos do JS. 
 
 ## 4
-Crie uma função que recebe um objeto e retorna uma lista somente com suas chaves. Por exemplo, se o argumento for { id: 1, nome: “astrodev” } deverá ser retornado [ "id", "astrodev" ].
+Crie uma função que recebe um objeto e retorna uma lista somente com suas chaves. Por exemplo, se o argumento for { id: 1, nome: “astrodev” } deverá ser retornado [ "id", "nome" ].
 
 ## 5
 Crie uma função que recebe dois números e retorna uma lista com os números entre o primeiro e o segundo números recebidos, inclusivos. Por exemplo, o input 5 e 9 retorna [ 5, 6, 7, 8, 9 ]
